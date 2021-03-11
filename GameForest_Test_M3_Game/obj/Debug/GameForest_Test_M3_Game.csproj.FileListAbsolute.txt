@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\bin\Debug\GameForest_Test_M3_Game.exe.config
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\bin\Debug\GameForest_Test_M3_Game.exe
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\bin\Debug\GameForest_Test_M3_Game.pdb
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.csprojAssemblyReference.cache
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.Level.resources
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.MainMenu.resources
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.Properties.Resources.resources
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.csproj.GenerateResource.cache
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.exe
+C:\Users\1\source\repos\GameForest_Test_M3_Game\GameForest_Test_M3_Game\obj\Debug\GameForest_Test_M3_Game.pdb
